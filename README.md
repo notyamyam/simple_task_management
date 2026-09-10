@@ -1,5 +1,5 @@
 # This is a simple task management. 
 
-React + API
-JWT / OAuth
+React + FastAPI, 
+JWT / OAuth, 
 API Integration
