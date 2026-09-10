@@ -1,6 +1,5 @@
 # This is a simple task management. 
 
-# Stack:
-# React + API
-# JWT / OAuth
-# API Integration
+React + API
+JWT / OAuth
+API Integration
